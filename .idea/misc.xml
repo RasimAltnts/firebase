@@ -3,12 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/drawable/iconsocialmedia.xml" value="0.1" />
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/drawable/mybutton.xml" value="0.2315" />
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/drawable/plaintext.xml" value="0.1635" />
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/drawable/socialmediaicon.xml" value="0.1165" />
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/layout/activity_main.xml" value="0.33" />
-        <entry key="..\:/Users/rasim/OneDrive/FireBase/app/src/main/res/layout/fragment_create_account.xml" value="0.2" />
+        <entry key="..\:/Users/rasim/OneDrive/FireBase2/app/src/main/res/drawable-v24/ic_launcher_background.xml" value="0.1265625" />
+        <entry key="..\:/Users/rasim/OneDrive/FireBase2/app/src/main/res/layout/activity_createuse.xml" value="0.2109375" />
+        <entry key="..\:/Users/rasim/OneDrive/FireBase2/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/rasim/OneDrive/FireBase2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1265625" />
       </map>
     </option>
   </component>
